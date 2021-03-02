@@ -50,7 +50,7 @@ seo:
     - name: 'twitter:title'
       value: Sheikh Motiur Rahman
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: The preview of Sheikh Motiur Rahman
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
