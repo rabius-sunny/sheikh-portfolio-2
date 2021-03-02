@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:description'
       value: Blog - Sheikh Motiur Rahman
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: /images/rainy-moon.jpg
       relativeUrl: true
 template: blog
 ---
