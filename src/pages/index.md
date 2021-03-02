@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Sheikh Motiur Rahman
-  description: The preview of the Fresh theme
+  description: The preview of Sheikh Motiur Rahman
   extra:
     - name: 'og:type'
       value: website
