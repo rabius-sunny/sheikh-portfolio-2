@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: Blog - Sheikh Motiur Rahman
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Blog - Sheikh Motiur Rahman
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
