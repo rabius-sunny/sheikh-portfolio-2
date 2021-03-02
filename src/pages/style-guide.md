@@ -4,7 +4,7 @@ subtitle: >-
   The study guide provides you steps and necessary information how to get
   started in education with Islam.
 seo:
-  title: Theme Style Guide
+  title: Study Guide - Sheikh Motiur Rahman
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
