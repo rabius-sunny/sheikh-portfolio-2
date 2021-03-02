@@ -1,6 +1,8 @@
 ---
 title: Style Guide
-subtitle: The study guide provides you how to get sta
+subtitle: >-
+  The study guide provides you steps and necessary information how to get
+  started in education with Islam.
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
