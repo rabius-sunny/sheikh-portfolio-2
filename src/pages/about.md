@@ -4,7 +4,7 @@ subtitle: This is a short page about me and my work.
 img_path: images/unique-oak.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
-  title: About Me
+  title: Biography - Sheikh Motiur Rahman
   description: This is the about me page
   extra:
     - name: 'og:type'
