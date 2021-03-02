@@ -11,7 +11,7 @@ seo:
       value: Blog - Sheikh Motiur Rahman
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Blog - Sheikh Motiur Rahman
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Blog - Sheikh Motiur Rahman
     - name: 'twitter:description'
       value: This is the blog page
     - name: 'twitter:image'
