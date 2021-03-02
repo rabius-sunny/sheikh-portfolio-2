@@ -75,7 +75,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "Copyright @ sheikh, 2021 | made by rabius sunny"
     },
     "title": "Stackbit Fresh Theme",
     "domain": "https://sheikh-portfolio-2-e4cc9.netlify.app"
