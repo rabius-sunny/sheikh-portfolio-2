@@ -5,7 +5,6 @@ subtitle: >-
   started in education with Islam.
 seo:
   title: Study Guide - Sheikh Motiur Rahman
-  description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
       value: website
