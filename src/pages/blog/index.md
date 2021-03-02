@@ -2,7 +2,7 @@
 title: Blog
 seo:
   title: Blog - Sheikh Motiur Rahman
-  description: This is the blog page
+  description: Blog - Sheikh Motiur Rahman
   extra:
     - name: 'og:type'
       value: website
