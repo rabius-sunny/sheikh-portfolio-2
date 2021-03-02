@@ -52,7 +52,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of Sheikh Motiur Rahman
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/adorable-mahogany.jpg
       relativeUrl: true
 template: advanced
 ---
