@@ -9,9 +9,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Theme Style Guide
-      keyName: property
     - name: 'og:description'
       value: >-
         A reference for suggested typographic treatment and styles for your
