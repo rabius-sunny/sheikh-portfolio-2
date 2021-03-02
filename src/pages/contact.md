@@ -39,7 +39,7 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
+  title: Contact - Sheikh Motiur Rahman
   description: This is the contact page
   extra:
     - name: 'og:type'
