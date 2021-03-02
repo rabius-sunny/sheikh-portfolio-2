@@ -42,7 +42,7 @@ seo:
       value: The preview of Sheikh Motiur Rahman
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/beige-parsley.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
