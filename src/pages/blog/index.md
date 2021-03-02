@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Blog - Sheikh Motiur Rahman
       keyName: property
     - name: 'og:description'
       value: This is the blog page
