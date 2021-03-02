@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Study Guide
 subtitle: >-
   The study guide provides you steps and necessary information how to get
   started in education with Islam.
